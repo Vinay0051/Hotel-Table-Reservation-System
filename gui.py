@@ -1,9 +1,4 @@
 #Albego - Home/Login Page
-#Version 1.0
-#Build: July 2022
-#This file was edited by Vishnu Siddharth
-#This file was edited by Vishal Prakash
-
 import login
 from pathlib import Path
 from tkinter import Label, Tk, Canvas, Entry, Text, Button, PhotoImage
